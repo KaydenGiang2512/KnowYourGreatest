@@ -12,7 +12,7 @@
         "careerJerseyNumbers": "7/9/28 (International football clubs); 7/10/11/17 (Portuguese national team)",
         "notableAchievements": {
             "teamAchievements": "5x UEFA Champions League; 4x FIFA Club World Cup; 3x UEFA Super Cup; 3x Premier League; 2x La Liga; 2x Serie A; 1x UEFA European Championships; 1x UEFA European Championships runner-up; 1x UEFA Nations League",
-            "individualAchievements": "7x UEFA Champions League Top Scorer; 6x Dubai Globe Soccer Awards Best Player of the Year; 5x Ballon D'or; 5x FIFA World Player of the Year; 4x European Golden Shoe; 3x La Liga Top Scorer; 1x Premier League Top Scorer; 1x Serie A Top Scorer; 1x FIFA World Player of the Year; 1x UEFA European Championships Golden Boot; 1x FIFA the Best Special Award"
+            "individualAchievements": "7x UEFA Champions League Top Scorer; 6x Dubai Globe Soccer Awards Best Player of the Year; 5x Ballon D'or; 5x FIFA World Player of the Year; 4x European Golden Shoe; 3x La Liga Top Scorer; 2x FIFA Club World Cup Golden Ball; 1x Premier League Top Scorer; 1x Serie A Top Scorer; 1x FIFA World Player of the Year; 1x UEFA European Championships Golden Boot; 1x FIFA the Best Special Award; 1x FIFA Club World Cup Top Scorer"
         }
     },
     
@@ -29,7 +29,7 @@
         "careerJerseyNumbers": "10/19/30 (International football clubs); 10/15/18/19 (Argentinian national team)",
         "notableAchievements": {
             "teamAchievements": "10x La Liga; 4x UEFA Champions League; 3x FIFA Club World Cup; 3x UEFA Super Cup; 1x Ligue 1; 1x Copa America; 1x Finalissima",
-            "individualAchievements": "8x La Liga Top Scorer; 7x Ballon D'or; 6x FIFA World Player of the Year; 6x European Golden Shoe; 6x UEFA Champions League Top Scorer; 2x Copa America Golden Ball; 1x FIFA World Cup Golden Ball; 1x Copa America Golden Boot; 1x FIFA World Player of the Year; 1x Dubai Globe Soccer Awards Best Player of the Year"
+            "individualAchievements": "8x La Liga Top Scorer; 7x Ballon D'or; 6x FIFA World Player of the Year; 6x European Golden Shoe; 6x UEFA Champions League Top Scorer; 2x Copa America Golden Ball; 1x FIFA World Cup Golden Ball; 1x Copa America Golden Boot; 1x FIFA World Player of the Year; 1x Dubai Globe Soccer Awards Best Player of the Year; 1x FIFA Club World Cup Golden Ball"
         }
     },
     
@@ -46,7 +46,51 @@
         "careerJerseyNumbers": "7/9/16/20/25 (International football clubs); 9/18 (Uruguayan national team)",
         "notableAchievements": {
             "teamAchievements": "5x La Liga; 4x Copa Del Rey; 2x Supercopa de Espana; 1x UEFA Champions League; 1x FIFA Club World Cup; 1x UEFA Super Cup; 1x English Football League Cup; 1x Eredivisie; 1x KNVB Cup; 1x Primera Division; 1x Copa America",
-            "individualAchievements": ""
+            "individualAchievements": "2x European Golden Shoe; 1x La Liga Top Scorer; 1x Premier League Top Scorer; 1x Eredivisie Top Scorer; 1x FIFA Club World Cup Golden Ball; 1x Copa Del Rey Top Scorer; 1x FIFA Club World Cup Top Scorer"
         }
+    },
+
+    {
+        "countryImage": "poland",
+        "image": "lewangoalski",
+        "fullName": "Robert Lewandowski"
+    },
+
+    {
+        "countryImage": "brazil",
+        "image": "pele",
+        "fullName": "Edson Arantes do Nascimento (Pele)"
+
+    },
+
+    {
+        "countryImage": "sweden",
+        "image": "zlatan",
+        "fullName": "Zlatan Ibrahimovic"
+    },
+
+    {
+        "countryImage": "the-netherlands",
+        "image": "cruyff",
+        "fullName": "Hendrik Johannes Cruijff (Johan Cruyff)"
+    },
+
+    {
+        "countryImage": "germany",
+        "image": "der-bomber",
+        "fullName": "Gerhard Muller (Gerd Muller)"
+    },
+
+    {
+        "countryImage": "france",
+        "image": "zizou",
+        "fullName": "Zinedine Yazid Zidane"
+    },
+
+    {
+        "countryImage": "spain",
+        "image": "la-computadora",
+        "fullName": "Xavier Hernández Creus (Xavi)"
     }
+
 ]
