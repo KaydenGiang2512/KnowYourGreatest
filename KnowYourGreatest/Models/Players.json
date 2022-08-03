@@ -1,0 +1,31 @@
+[
+    {
+        "fullName": "Cristiano Ronaldo dos Santos Aveiro",
+        "dateOfBirth": "Feb 5, 1985 (aged 37)",
+        "careerAppearances": 1122,
+        "careerGoals": 815,
+        "careerAssists": 230,
+        "careerChampionships": 34,
+        "careerClubs": "Sporting CP (2002-2003); Manchester United (2003-2009, 2021-present); Real Madrid (2009-2018); Juventus (2018-2021)",
+        "careerJerseyNumbers": "7/9/28 (International football clubs); 7/10/11/17 (Portuguese national team)",
+        "notableAchievements": {
+            "teamAchievements": "5x UEFA Champions League; 4x FIFA Club World Cup; 3x UEFA Super Cup; 3x Premier League; 2x La Liga; 2x Serie A; 1x UEFA European Championships; 1x UEFA Nations League",
+            "individualAchievements": "7x UEFA Champions League Top Scorer, 5x Ballon D'or, 4x European Golden Shoe, 3x La Liga Top Scorer, 1x Premier League Top Scorer, 1x Serie A Top Scorer, 1x FIFA World Player of the Year, 1x UEFA European Championships Golden Boot"
+        }
+    },
+    
+    {
+        "fullName": "Lionel Andres Messi",
+        "dateOfBirth": "June 24, 1987 (aged 35)",
+        "careerAppearances": 975,
+        "careerGoals": 770,
+        "careerAssists": 331,
+        "careerChampionships": 40,
+        "careerClubs": "Barcelona FC (2004-2021); Paris Saint-Germain (2021-present)",
+        "careerJerseyNumbers": "10/19/30 (International football clubs); 10/15/18/19 (Argentinian national team)",
+        "notableAchievements": {
+        }
+    }
+    
+    
+]

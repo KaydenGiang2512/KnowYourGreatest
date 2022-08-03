@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B83E360289A237F002E1F20 /* Players.json in Resources */ = {isa = PBXBuildFile; fileRef = 8B83E35F289A237F002E1F20 /* Players.json */; };
 		8BA00F8F288A573E0098B28A /* KnowYourGreatestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA00F8E288A573E0098B28A /* KnowYourGreatestApp.swift */; };
 		8BA00F91288A573E0098B28A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA00F90288A573E0098B28A /* ContentView.swift */; };
 		8BA00F93288A573F0098B28A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BA00F92288A573F0098B28A /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8B83E35F289A237F002E1F20 /* Players.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Players.json; sourceTree = "<group>"; };
 		8BA00F8B288A573E0098B28A /* KnowYourGreatest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KnowYourGreatest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BA00F8E288A573E0098B28A /* KnowYourGreatestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnowYourGreatestApp.swift; sourceTree = "<group>"; };
 		8BA00F90288A573E0098B28A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				8BA00F9F288A5A8D0098B28A /* PlayerData.swift */,
+				8B83E35F289A237F002E1F20 /* Players.json */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			files = (
 				8BA00F96288A573F0098B28A /* Preview Assets.xcassets in Resources */,
 				8BA00F93288A573F0098B28A /* Assets.xcassets in Resources */,
+				8B83E360289A237F002E1F20 /* Players.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
