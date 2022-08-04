@@ -1,96 +1,107 @@
 [
     {
-        "countryImage": "portugal",
-        "image": "cr7",
+        "id": 1,
+        "countryName": "portugal",
+        "imageName": "cr7",
         "fullName": "Cristiano Ronaldo dos Santos Aveiro",
         "dateOfBirth": "Feb 5, 1985 (aged 37)",
-        "careerAppearances": 1124,
-        "careerGoals": 815,
-        "careerAssists": 272,
-        "careerChampionships": 34,
+        "careerAppearances": "1124",
+        "careerGoals": "815",
+        "careerAssists": "272",
+        "careerChampionships": "34",
         "careerClubs": "Sporting CP (2002-2003); Manchester United (2003-2009, 2021-present); Real Madrid (2009-2018); Juventus (2018-2021)",
         "careerJerseyNumbers": "7/9/28 (International football clubs); 7/10/11/17 (Portuguese national team)",
-        "notableAchievements": {
-            "teamAchievements": "5x UEFA Champions League; 4x FIFA Club World Cup; 3x UEFA Super Cup; 3x Premier League; 2x La Liga; 2x Serie A; 1x UEFA European Championships; 1x UEFA European Championships runner-up; 1x UEFA Nations League",
-            "individualAchievements": "7x UEFA Champions League Top Scorer; 6x Dubai Globe Soccer Awards Best Player of the Year; 5x Ballon D'or; 5x FIFA World Player of the Year; 4x European Golden Shoe; 3x La Liga Top Scorer; 2x FIFA Club World Cup Golden Ball; 1x Premier League Top Scorer; 1x Serie A Top Scorer; 1x FIFA World Player of the Year; 1x UEFA European Championships Golden Boot; 1x FIFA the Best Special Award; 1x FIFA Club World Cup Top Scorer"
-        }
+        "teamAchievements": "5x UEFA Champions League; 4x FIFA Club World Cup; 3x UEFA Super Cup; 3x Premier League; 2x La Liga; 2x Serie A; 1x UEFA European Championships; 1x UEFA European Championships runner-up; 1x UEFA Nations League",
+        "individualAchievements": "7x UEFA Champions League Top Scorer; 6x Dubai Globe Soccer Awards Best Player of the Year; 5x Ballon D'or; 5x FIFA World Player of the Year; 4x European Golden Shoe; 3x La Liga Top Scorer; 2x FIFA Club World Cup Golden Ball; 1x Premier League Top Scorer; 1x Serie A Top Scorer; 1x FIFA World Player of the Year; 1x UEFA European Championships Golden Boot; 1x FIFA the Best Special Award; 1x FIFA Club World Cup Top Scorer"
     },
     
     {
-        "countryImage": "argentina",
-        "image": "el-pulga",
+        "id": 2,
+        "countryName": "argentina",
+        "imageName": "el-pulga",
         "fullName": "Lionel Andres Messi",
         "dateOfBirth": "June 24, 1987 (aged 35)",
-        "careerAppearances": 975,
-        "careerGoals": 770,
-        "careerAssists": 368,
-        "careerChampionships": 40,
+        "careerAppearances": "975",
+        "careerGoals": "770",
+        "careerAssists": "368",
+        "careerChampionships": "40",
         "careerClubs": "Barcelona FC (2004-2021); Paris Saint-Germain (2021-present)",
         "careerJerseyNumbers": "10/19/30 (International football clubs); 10/15/18/19 (Argentinian national team)",
-        "notableAchievements": {
-            "teamAchievements": "10x La Liga; 4x UEFA Champions League; 3x FIFA Club World Cup; 3x UEFA Super Cup; 1x Ligue 1; 1x Copa America; 1x Finalissima",
-            "individualAchievements": "8x La Liga Top Scorer; 7x Ballon D'or; 6x FIFA World Player of the Year; 6x European Golden Shoe; 6x UEFA Champions League Top Scorer; 2x Copa America Golden Ball; 1x FIFA World Cup Golden Ball; 1x Copa America Golden Boot; 1x FIFA World Player of the Year; 1x Dubai Globe Soccer Awards Best Player of the Year; 1x FIFA Club World Cup Golden Ball"
-        }
+        "teamAchievements": "10x La Liga; 4x UEFA Champions League; 3x FIFA Club World Cup; 3x UEFA Super Cup; 1x Ligue 1; 1x Copa America; 1x Finalissima",
+        "individualAchievements": "8x La Liga Top Scorer; 7x Ballon D'or; 6x FIFA World Player of the Year; 6x European Golden Shoe; 6x UEFA Champions League Top Scorer; 2x Copa America Golden Ball; 1x FIFA World Cup Golden Ball; 1x Copa America Golden Boot; 1x FIFA World Player of the Year; 1x Dubai Globe Soccer Awards Best Player of the Year; 1x FIFA Club World Cup Golden Ball"
     },
     
     {
-        "countryImage": "uruguay",
-        "image": "el-pistolero",
+        "id": 3,
+        "countryName": "uruguay",
+        "imageName": "el-pistolero",
         "fullName": "Luis Alberto Suarez Diaz",
         "dateOfBirth": "January 24, 1987 (aged 35)",
-        "careerAppearances": 862,
-        "careerGoals": 520,
-        "careerAssists": 277,
-        "careerChampionships": 20,
+        "careerAppearances": "862",
+        "careerGoals": "520",
+        "careerAssists": "277",
+        "careerChampionships": "20",
         "careerClubs": "Club Nacional de Football (2005-2006, 2022-present); FC Groningen (2006-2007); Ajax Amsterdam (2007-2011); Liverpool FC (2011-2014); FC Barcelona (2014-2020); Athletico de Madrid (2020-2022)",
         "careerJerseyNumbers": "7/9/16/20/25 (International football clubs); 9/18 (Uruguayan national team)",
-        "notableAchievements": {
-            "teamAchievements": "5x La Liga; 4x Copa Del Rey; 2x Supercopa de Espana; 1x UEFA Champions League; 1x FIFA Club World Cup; 1x UEFA Super Cup; 1x English Football League Cup; 1x Eredivisie; 1x KNVB Cup; 1x Primera Division; 1x Copa America",
-            "individualAchievements": "2x European Golden Shoe; 1x La Liga Top Scorer; 1x Premier League Top Scorer; 1x Eredivisie Top Scorer; 1x FIFA Club World Cup Golden Ball; 1x Copa Del Rey Top Scorer; 1x FIFA Club World Cup Top Scorer"
-        }
+        "teamAchievements": "5x La Liga; 4x Copa Del Rey; 2x Supercopa de Espana; 1x UEFA Champions League; 1x FIFA Club World Cup; 1x UEFA Super Cup; 1x English Football League Cup; 1x Eredivisie; 1x KNVB Cup; 1x Primera Division; 1x Copa America",
+        "individualAchievements": "2x European Golden Shoe; 1x La Liga Top Scorer; 1x Premier League Top Scorer; 1x Eredivisie Top Scorer; 1x FIFA Club World Cup Golden Ball; 1x Copa Del Rey Top Scorer; 1x FIFA Club World Cup Top Scorer"
     },
 
     {
-        "countryImage": "poland",
-        "image": "lewangoalski",
+        "id": 4,
+        "countryName": "poland",
+        "imageName": "lewangoalski",
         "fullName": "Robert Lewandowski"
     },
 
     {
-        "countryImage": "brazil",
-        "image": "pele",
+        "id": 5,
+        "countryName": "brazil",
+        "imageName": "pele",
         "fullName": "Edson Arantes do Nascimento (Pele)"
 
     },
 
     {
-        "countryImage": "sweden",
-        "image": "zlatan",
+        "id": 6,
+        "countryName": "sweden",
+        "imageName": "zlatan",
         "fullName": "Zlatan Ibrahimovic"
     },
 
     {
-        "countryImage": "the-netherlands",
-        "image": "cruyff",
-        "fullName": "Hendrik Johannes Cruijff (Johan Cruyff)"
+        "id": 7,
+        "countryName": "the-netherlands",
+        "imageName": "flying-dutchman",
+        "fullName": "Dennis Nicolaas Maria Bergkamp"
     },
 
     {
-        "countryImage": "germany",
-        "image": "der-bomber",
+        "id": 8,
+        "countryName": "germany",
+        "imageName": "der-bomber",
         "fullName": "Gerhard Muller (Gerd Muller)"
     },
 
     {
-        "countryImage": "france",
-        "image": "zizou",
+        "id": 9,
+        "countryName": "france",
+        "imageName": "zizou",
         "fullName": "Zinedine Yazid Zidane"
     },
 
     {
-        "countryImage": "spain",
-        "image": "la-computadora",
+        "id": 10,
+        "countryName": "spain",
+        "imageName": "la-computadora",
         "fullName": "Xavier Hernández Creus (Xavi)"
+    },
+    
+    {
+        "id": 11,
+        "countryName": "croatia",
+        "imageName": "luka",
+        "fullName": "Luka Modric"
     }
 
 ]
