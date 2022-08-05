@@ -17,13 +17,12 @@ struct Player: Identifiable, Codable {
     var careerAssists: String
     var careerChampionships: String
     var careerClubs: String
-    var careerJerseyNumbers: String
     var teamAchievements: String
     var individualAchievements: String
     
-    var countryName: String
-    var countryImage: Image {
-        Image(countryName)
+    var nationName: String
+    var nationImage: Image {
+        Image(nationName)
     }
     
     var imageName: String

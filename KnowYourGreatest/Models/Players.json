@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "countryName": "portugal",
+        "nationName": "portugal",
         "imageName": "cr7",
         "fullName": "Cristiano Ronaldo dos Santos Aveiro",
         "dateOfBirth": "Feb 5, 1985 (aged 37)",
@@ -10,15 +10,14 @@
         "careerAssists": "272",
         "careerChampionships": "34",
         "careerClubs": "Sporting CP (2002-2003); Manchester United (2003-2009, 2021-present); Real Madrid (2009-2018); Juventus (2018-2021)",
-        "careerJerseyNumbers": "7/9/28 (International football clubs); 7/10/11/17 (Portuguese national team)",
         "teamAchievements": "5x UEFA Champions League; 4x FIFA Club World Cup; 3x UEFA Super Cup; 3x Premier League; 2x La Liga; 2x Serie A; 1x UEFA European Championships; 1x UEFA European Championships runner-up; 1x UEFA Nations League",
         "individualAchievements": "7x UEFA Champions League Top Scorer; 6x Dubai Globe Soccer Awards Best Player of the Year; 5x Ballon D'or; 5x FIFA World Player of the Year; 4x European Golden Shoe; 3x La Liga Top Scorer; 2x FIFA Club World Cup Golden Ball; 1x Premier League Top Scorer; 1x Serie A Top Scorer; 1x FIFA World Player of the Year; 1x UEFA European Championships Golden Boot; 1x FIFA the Best Special Award; 1x FIFA Club World Cup Top Scorer"
     },
     
     {
         "id": 2,
-        "countryName": "argentina",
-        "imageName": "el-pulga",
+        "nationName": "argentina",
+        "imageName": "el pulga",
         "fullName": "Lionel Andres Messi",
         "dateOfBirth": "June 24, 1987 (aged 35)",
         "careerAppearances": "975",
@@ -26,15 +25,14 @@
         "careerAssists": "368",
         "careerChampionships": "40",
         "careerClubs": "Barcelona FC (2004-2021); Paris Saint-Germain (2021-present)",
-        "careerJerseyNumbers": "10/19/30 (International football clubs); 10/15/18/19 (Argentinian national team)",
         "teamAchievements": "10x La Liga; 4x UEFA Champions League; 3x FIFA Club World Cup; 3x UEFA Super Cup; 1x Ligue 1; 1x Copa America; 1x Finalissima",
         "individualAchievements": "8x La Liga Top Scorer; 7x Ballon D'or; 6x FIFA World Player of the Year; 6x European Golden Shoe; 6x UEFA Champions League Top Scorer; 2x Copa America Golden Ball; 1x FIFA World Cup Golden Ball; 1x Copa America Golden Boot; 1x FIFA World Player of the Year; 1x Dubai Globe Soccer Awards Best Player of the Year; 1x FIFA Club World Cup Golden Ball"
     },
     
     {
         "id": 3,
-        "countryName": "uruguay",
-        "imageName": "el-pistolero",
+        "nationName": "uruguay",
+        "imageName": "el pistolero",
         "fullName": "Luis Alberto Suarez Diaz",
         "dateOfBirth": "January 24, 1987 (aged 35)",
         "careerAppearances": "862",
@@ -42,66 +40,128 @@
         "careerAssists": "277",
         "careerChampionships": "20",
         "careerClubs": "Club Nacional de Football (2005-2006, 2022-present); FC Groningen (2006-2007); Ajax Amsterdam (2007-2011); Liverpool FC (2011-2014); FC Barcelona (2014-2020); Athletico de Madrid (2020-2022)",
-        "careerJerseyNumbers": "7/9/16/20/25 (International football clubs); 9/18 (Uruguayan national team)",
         "teamAchievements": "5x La Liga; 4x Copa Del Rey; 2x Supercopa de Espana; 1x UEFA Champions League; 1x FIFA Club World Cup; 1x UEFA Super Cup; 1x English Football League Cup; 1x Eredivisie; 1x KNVB Cup; 1x Primera Division; 1x Copa America",
         "individualAchievements": "2x European Golden Shoe; 1x La Liga Top Scorer; 1x Premier League Top Scorer; 1x Eredivisie Top Scorer; 1x FIFA Club World Cup Golden Ball; 1x Copa Del Rey Top Scorer; 1x FIFA Club World Cup Top Scorer"
     },
 
     {
         "id": 4,
-        "countryName": "poland",
+        "nationName": "poland",
         "imageName": "lewangoalski",
-        "fullName": "Robert Lewandowski"
+        "fullName": "Robert Lewandowski",
+        "dateOfBirth": "August 21, 1988 (aged 34)",
+        "careerAppearances": "N/A",
+        "careerGoals": "N/A",
+        "careerAssists": "N/A",
+        "careerChampionships": "N/A",
+        "careerClubs": "N/A",
+        "teamAchievements": "N/A",
+        "individualAchievements": "N/A"
     },
 
     {
         "id": 5,
-        "countryName": "brazil",
+        "nationName": "brazil",
         "imageName": "pele",
-        "fullName": "Edson Arantes do Nascimento (Pele)"
-
+        "fullName": "Edson Arantes do Nascimento (Pele)",
+        "dateOfBirth": "October 23, 1940 (aged 82)",
+        "careerAppearances": "N/A",
+        "careerGoals": "N/A",
+        "careerAssists": "N/A",
+        "careerChampionships": "N/A",
+        "careerClubs": "N/A",
+        "teamAchievements": "N/A",
+        "individualAchievements": "N/A"
     },
 
     {
         "id": 6,
-        "countryName": "sweden",
+        "nationName": "sweden",
         "imageName": "zlatan",
-        "fullName": "Zlatan Ibrahimovic"
+        "fullName": "Zlatan Ibrahimovic",
+        "dateOfBirth": "October 3, 1981 (aged 42)",
+        "careerAppearances": "N/A",
+        "careerGoals": "N/A",
+        "careerAssists": "N/A",
+        "careerChampionships": "N/A",
+        "careerClubs": "N/A",
+        "teamAchievements": "N/A",
+        "individualAchievements": "N/A"
     },
 
     {
         "id": 7,
-        "countryName": "the-netherlands",
-        "imageName": "flying-dutchman",
-        "fullName": "Dennis Nicolaas Maria Bergkamp"
+        "nationName": "the netherlands",
+        "imageName": "flying dutchman",
+        "fullName": "Dennis Nicolaas Maria Bergkamp",
+        "dateOfBirth": "May 10, 1969 (aged 53)",
+        "careerAppearances": "N/A",
+        "careerGoals": "N/A",
+        "careerAssists": "N/A",
+        "careerChampionships": "N/A",
+        "careerClubs": "N/A",
+        "teamAchievements": "N/A",
+        "individualAchievements": "N/A"
     },
 
     {
         "id": 8,
-        "countryName": "germany",
-        "imageName": "der-bomber",
-        "fullName": "Gerhard Muller (Gerd Muller)"
+        "nationName": "germany",
+        "imageName": "der bomber",
+        "fullName": "Gerhard Muller (Gerd Muller)",
+        "dateOfBirth": "November 3, 1945 (deceased at age 76)",
+        "careerAppearances": "N/A",
+        "careerGoals": "N/A",
+        "careerAssists": "N/A",
+        "careerChampionships": "N/A",
+        "careerClubs": "N/A",
+        "teamAchievements": "N/A",
+        "individualAchievements": "N/A"
     },
 
     {
         "id": 9,
-        "countryName": "france",
+        "nationName": "france",
         "imageName": "zizou",
-        "fullName": "Zinedine Yazid Zidane"
+        "fullName": "Zinedine Yazid Zidane",
+        "dateOfBirth": "June 23, 1972 (aged 50)",
+        "careerAppearances": "N/A",
+        "careerGoals": "N/A",
+        "careerAssists": "N/A",
+        "careerChampionships": "N/A",
+        "careerClubs": "N/A",
+        "teamAchievements": "N/A",
+        "individualAchievements": "N/A"
     },
 
     {
         "id": 10,
-        "countryName": "spain",
-        "imageName": "la-computadora",
-        "fullName": "Xavier Hernández Creus (Xavi)"
+        "nationName": "spain",
+        "imageName": "la computadora",
+        "fullName": "Xavier Hernández Creus (Xavi)",
+        "dateOfBirth": "January 25, 1980 (aged 42)",
+        "careerAppearances": "N/A",
+        "careerGoals": "N/A",
+        "careerAssists": "N/A",
+        "careerChampionships": "N/A",
+        "careerClubs": "N/A",
+        "teamAchievements": "N/A",
+        "individualAchievements": "N/A"
     },
     
     {
         "id": 11,
-        "countryName": "croatia",
+        "nationName": "croatia",
         "imageName": "luka",
-        "fullName": "Luka Modric"
+        "fullName": "Luka Modric",
+        "dateOfBirth": "September 9, 1985 (aged 37)",
+        "careerAppearances": "",
+        "careerGoals": "",
+        "careerAssists": "",
+        "careerChampionships": "",
+        "careerClubs": "",
+        "teamAchievements": "",
+        "individualAchievements": ""
     }
 
 ]
