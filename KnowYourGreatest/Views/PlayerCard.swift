@@ -12,21 +12,27 @@ struct PlayerCard: View {
 
     var body: some View {
         ZStack {
-//            Color(red: 0.03, green: 0.03, blue: 0.35)
-//                .edgesIgnoringSafeArea(.all)
             Image("stadium")
                 .resizable()
                 .edgesIgnoringSafeArea(.all)
             
-            ScrollView {
                 VStack {
+                    NavigationLink {
+                        PlayerDetail(player: player)
+                    } label: {
+                        Text("View Details")
+                            .foregroundColor(.white)
+                            .font(.system(size: 30))
+                            .padding()
+                            .overlay {
+                                RoundedRectangle(cornerRadius: 30)
+                                    .stroke(Color.white, lineWidth: 5)
+                            }
+                    }
                     Image(player.imageName)
                         .resizable()
                         .aspectRatio(contentMode: .fit)
                 }
-            }
-            .navigationBarTitleDisplayMode(.inline)
-            
         }
     }
 }
@@ -34,6 +40,6 @@ struct PlayerCard: View {
 struct PlayerCard_Previews: PreviewProvider {
     static var previews: some View {
         PlayerCard(player: players[0])
-        PlayerCard(player: players[1])
+        PlayerCard(player: players[2])
     }
 }

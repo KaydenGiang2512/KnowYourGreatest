@@ -17,8 +17,7 @@ struct Player: Identifiable, Codable {
     var careerAssists: String
     var careerChampionships: String
     var careerClubs: String
-    var teamAchievements: String
-    var individualAchievements: String
+    var notableAchievements: String
     
     var nationName: String
     var nationImage: Image {

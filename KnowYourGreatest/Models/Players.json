@@ -10,8 +10,7 @@
         "careerAssists": "272",
         "careerChampionships": "34",
         "careerClubs": "Sporting CP (2002-2003); Manchester United (2003-2009, 2021-present); Real Madrid (2009-2018); Juventus (2018-2021)",
-        "teamAchievements": "5x UEFA Champions League; 4x FIFA Club World Cup; 3x UEFA Super Cup; 3x Premier League; 2x La Liga; 2x Serie A; 1x UEFA European Championships; 1x UEFA European Championships runner-up; 1x UEFA Nations League",
-        "individualAchievements": "7x UEFA Champions League Top Scorer; 6x Dubai Globe Soccer Awards Best Player of the Year; 5x Ballon D'or; 5x FIFA World Player of the Year; 4x European Golden Shoe; 3x La Liga Top Scorer; 2x FIFA Club World Cup Golden Ball; 1x Premier League Top Scorer; 1x Serie A Top Scorer; 1x FIFA World Player of the Year; 1x UEFA European Championships Golden Boot; 1x FIFA the Best Special Award; 1x FIFA Club World Cup Top Scorer"
+        "notableAchievements": "\n7x UEFA Champions League Top Scorer;\n5x UEFA Champions League;\n5x Ballon D'or;\n4x European Golden Shoe;\n4x FIFA Club World Cup;\n1x UEFA European Championships;\n"
     },
     
     {
@@ -25,8 +24,7 @@
         "careerAssists": "368",
         "careerChampionships": "40",
         "careerClubs": "Barcelona FC (2004-2021); Paris Saint-Germain (2021-present)",
-        "teamAchievements": "10x La Liga; 4x UEFA Champions League; 3x FIFA Club World Cup; 3x UEFA Super Cup; 1x Ligue 1; 1x Copa America; 1x Finalissima",
-        "individualAchievements": "8x La Liga Top Scorer; 7x Ballon D'or; 6x FIFA World Player of the Year; 6x European Golden Shoe; 6x UEFA Champions League Top Scorer; 2x Copa America Golden Ball; 1x FIFA World Cup Golden Ball; 1x Copa America Golden Boot; 1x FIFA World Player of the Year; 1x Dubai Globe Soccer Awards Best Player of the Year; 1x FIFA Club World Cup Golden Ball"
+        "notableAchievements": "\n10x La Liga;\n8x La Liga Top Scorer;\n7x Ballon D'or;\n6x European Golden Shoe;\n4x UEFA Chmapions League;\n1x Copa America"
     },
     
     {
@@ -40,8 +38,7 @@
         "careerAssists": "277",
         "careerChampionships": "20",
         "careerClubs": "Club Nacional de Football (2005-2006, 2022-present); FC Groningen (2006-2007); Ajax Amsterdam (2007-2011); Liverpool FC (2011-2014); FC Barcelona (2014-2020); Athletico de Madrid (2020-2022)",
-        "teamAchievements": "5x La Liga; 4x Copa Del Rey; 2x Supercopa de Espana; 1x UEFA Champions League; 1x FIFA Club World Cup; 1x UEFA Super Cup; 1x English Football League Cup; 1x Eredivisie; 1x KNVB Cup; 1x Primera Division; 1x Copa America",
-        "individualAchievements": "2x European Golden Shoe; 1x La Liga Top Scorer; 1x Premier League Top Scorer; 1x Eredivisie Top Scorer; 1x FIFA Club World Cup Golden Ball; 1x Copa Del Rey Top Scorer; 1x FIFA Club World Cup Top Scorer"
+        "notableAchievements": "\n5x La Liga;\n2x European Golden Shoe;\n1x La Liga Top Scorer;\n1x UEFA Champions League;\n1x Copa America;\n1x Premier League Top Scorer"
     },
 
     {
@@ -55,8 +52,7 @@
         "careerAssists": "N/A",
         "careerChampionships": "N/A",
         "careerClubs": "N/A",
-        "teamAchievements": "N/A",
-        "individualAchievements": "N/A"
+        "notableAchievements": "N/A"
     },
 
     {
@@ -70,8 +66,7 @@
         "careerAssists": "N/A",
         "careerChampionships": "N/A",
         "careerClubs": "N/A",
-        "teamAchievements": "N/A",
-        "individualAchievements": "N/A"
+        "notableAchievements": "N/A"
     },
 
     {
@@ -85,8 +80,7 @@
         "careerAssists": "N/A",
         "careerChampionships": "N/A",
         "careerClubs": "N/A",
-        "teamAchievements": "N/A",
-        "individualAchievements": "N/A"
+        "notableAchievements": "N/A"
     },
 
     {
@@ -100,8 +94,7 @@
         "careerAssists": "N/A",
         "careerChampionships": "N/A",
         "careerClubs": "N/A",
-        "teamAchievements": "N/A",
-        "individualAchievements": "N/A"
+        "notableAchievements": "N/A"
     },
 
     {
@@ -115,8 +108,7 @@
         "careerAssists": "N/A",
         "careerChampionships": "N/A",
         "careerClubs": "N/A",
-        "teamAchievements": "N/A",
-        "individualAchievements": "N/A"
+        "notableAchievements": "N/A"
     },
 
     {
@@ -130,8 +122,7 @@
         "careerAssists": "N/A",
         "careerChampionships": "N/A",
         "careerClubs": "N/A",
-        "teamAchievements": "N/A",
-        "individualAchievements": "N/A"
+        "notableAchievements": "N/A"
     },
 
     {
@@ -145,8 +136,7 @@
         "careerAssists": "N/A",
         "careerChampionships": "N/A",
         "careerClubs": "N/A",
-        "teamAchievements": "N/A",
-        "individualAchievements": "N/A"
+        "notableAchievements": "N/A"
     },
     
     {
@@ -160,8 +150,7 @@
         "careerAssists": "",
         "careerChampionships": "",
         "careerClubs": "",
-        "teamAchievements": "",
-        "individualAchievements": ""
+        "notableAchievements": "N/A"
     }
 
 ]
