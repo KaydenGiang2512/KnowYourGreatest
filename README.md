@@ -28,7 +28,11 @@
      <td>Know Your Greatest App with Welcome Screen and Map View</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/KaydenGiang2512/KnowYourGreatest/blob/main/ViewScreenshots/AppDemo.gif?raw=true" width="300"></td>
+    <td>
+      <p align="center">
+        <img src="https://github.com/KaydenGiang2512/KnowYourGreatest/blob/main/ViewScreenshots/AppDemo.gif?raw=true" width="300">
+      </p>
+    </td>
    </tr>
  </table>
 
