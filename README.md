@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://imgur.com/SR04Qm2" width="200" > 
-  <img src="https://github.com/KaydenGiang2512/KnowYourGreatest/tree/main/ViewScreenshots/MainMenuView.png" width="200" > 
+  <img src="ViewScreenshots/MainMenuView.png" width="200" > 
   <img src="https://github.com/KaydenGiang2512/KnowYourGreatest/tree/main/ViewScreenshots/PlayerCardView.png" width="200" > 
   <img src="https://github.com/KaydenGiang2512/KnowYourGreatest/tree/main/ViewScreenshots/DetailView.png" width="200" >
   <img src="https://github.com/KaydenGiang2512/KnowYourGreatest/tree/main/ViewScreenshots/LocationMapView.png" width="200" >
