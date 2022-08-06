@@ -14,11 +14,11 @@
 - The data displayed is processed from a standard JSON file, and the accuracy of the provided statistics are all true as of mid-2022 (susceptible to future changes)!
 
 <p align="center">
-  <img src="https://imgur.com/SR04Qm2" width="200" > 
+  <img src="ViewScreenshots/WelcomeView.png" width="200" > 
   <img src="ViewScreenshots/MainMenuView.png" width="200" > 
-  <img src="https://github.com/KaydenGiang2512/KnowYourGreatest/tree/main/ViewScreenshots/PlayerCardView.png" width="200" > 
-  <img src="https://github.com/KaydenGiang2512/KnowYourGreatest/tree/main/ViewScreenshots/DetailView.png" width="200" >
-  <img src="https://github.com/KaydenGiang2512/KnowYourGreatest/tree/main/ViewScreenshots/LocationMapView.png" width="200" >
+  <img src="ViewScreenshots/PlayerCardView.png" width="200" > 
+  <img src="ViewScreenshots/DetailView.png" width="200" >
+  <img src="ViewScreenshots/LocationMapView.png" width="200" >
 </p>
 
 ## 🔮 Live Demo (Animation GIF)
