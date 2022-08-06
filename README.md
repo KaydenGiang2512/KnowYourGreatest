@@ -38,7 +38,9 @@
 - Xcode 13.4.1
 - SwiftUI Framework
 - Target Deployment iOS >=15.5
-- Library: CoreLocation for the MapKit
+- Built-in Library(s): CoreLocation for the MapKit
 
 ## 🏆 Author
 - Giang Nhat Khanh (Kayden) - nhatkhanhgiang2512@gmail.com
+- [Check my LinkedIn Profile](https://www.linkedin.com/in/nhatkhanhgiang2512/)
+- [My GitHub Profile](https://github.com/KaydenGiang2512)
