@@ -11,7 +11,7 @@ import SwiftUI
 struct KnowYourGreatestApp: App {
     var body: some Scene {
         WindowGroup {
-            NationList()
+            ContentView()
         }
     }
 }

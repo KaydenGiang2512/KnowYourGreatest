@@ -10,6 +10,9 @@
 		8B004DC4289CC6C800E46A54 /* NationList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B004DC3289CC6C800E46A54 /* NationList.swift */; };
 		8B004DC6289CC7EC00E46A54 /* PlayerCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B004DC5289CC7EC00E46A54 /* PlayerCard.swift */; };
 		8B004DC8289CE42D00E46A54 /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B004DC7289CE42D00E46A54 /* DetailsView.swift */; };
+		8B16D6E3289E15A000C4AA43 /* BirthLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B16D6E2289E15A000C4AA43 /* BirthLocation.swift */; };
+		8B16D6E6289E38F100C4AA43 /* WelcomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B16D6E5289E38F100C4AA43 /* WelcomeScreen.swift */; };
+		8B16D6E8289E6A3A00C4AA43 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B16D6E7289E6A3A00C4AA43 /* WelcomeView.swift */; };
 		8B793E3D289CBC9400B4614C /* NationRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B793E3C289CBC9400B4614C /* NationRow.swift */; };
 		8B83E360289A237F002E1F20 /* Players.json in Resources */ = {isa = PBXBuildFile; fileRef = 8B83E35F289A237F002E1F20 /* Players.json */; };
 		8B986724289D0FDC00C2F6BC /* PlayerDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B986723289D0FDC00C2F6BC /* PlayerDetail.swift */; };
@@ -25,6 +28,9 @@
 		8B004DC3289CC6C800E46A54 /* NationList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NationList.swift; sourceTree = "<group>"; };
 		8B004DC5289CC7EC00E46A54 /* PlayerCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerCard.swift; sourceTree = "<group>"; };
 		8B004DC7289CE42D00E46A54 /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
+		8B16D6E2289E15A000C4AA43 /* BirthLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthLocation.swift; sourceTree = "<group>"; };
+		8B16D6E5289E38F100C4AA43 /* WelcomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeScreen.swift; sourceTree = "<group>"; };
+		8B16D6E7289E6A3A00C4AA43 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
 		8B793E3C289CBC9400B4614C /* NationRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NationRow.swift; sourceTree = "<group>"; };
 		8B83E35F289A237F002E1F20 /* Players.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Players.json; sourceTree = "<group>"; };
 		8B986723289D0FDC00C2F6BC /* PlayerDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerDetail.swift; sourceTree = "<group>"; };
@@ -87,12 +93,15 @@
 		8BA00F9D288A59C10098B28A /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				8B16D6E5289E38F100C4AA43 /* WelcomeScreen.swift */,
 				8BA00F90288A573E0098B28A /* ContentView.swift */,
 				8B793E3C289CBC9400B4614C /* NationRow.swift */,
 				8B004DC3289CC6C800E46A54 /* NationList.swift */,
 				8B004DC5289CC7EC00E46A54 /* PlayerCard.swift */,
 				8B004DC7289CE42D00E46A54 /* DetailsView.swift */,
 				8B986723289D0FDC00C2F6BC /* PlayerDetail.swift */,
+				8B16D6E2289E15A000C4AA43 /* BirthLocation.swift */,
+				8B16D6E7289E6A3A00C4AA43 /* WelcomeView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -180,10 +189,13 @@
 			files = (
 				8B004DC4289CC6C800E46A54 /* NationList.swift in Sources */,
 				8BFE476C289BA51100B9138F /* Player.swift in Sources */,
+				8B16D6E3289E15A000C4AA43 /* BirthLocation.swift in Sources */,
 				8B986724289D0FDC00C2F6BC /* PlayerDetail.swift in Sources */,
 				8B793E3D289CBC9400B4614C /* NationRow.swift in Sources */,
 				8BA00F91288A573E0098B28A /* ContentView.swift in Sources */,
 				8BA00F8F288A573E0098B28A /* KnowYourGreatestApp.swift in Sources */,
+				8B16D6E8289E6A3A00C4AA43 /* WelcomeView.swift in Sources */,
+				8B16D6E6289E38F100C4AA43 /* WelcomeScreen.swift in Sources */,
 				8B004DC8289CE42D00E46A54 /* DetailsView.swift in Sources */,
 				8B004DC6289CC7EC00E46A54 /* PlayerCard.swift in Sources */,
 				8BFE4768289BA40800B9138F /* DataProcessor.swift in Sources */,

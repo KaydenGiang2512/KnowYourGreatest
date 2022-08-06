@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import CoreLocation
 
 var players = decodeJsonFromJsonFile(jsonFileName: "Players.json")
 

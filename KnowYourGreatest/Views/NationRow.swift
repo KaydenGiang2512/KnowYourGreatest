@@ -21,6 +21,7 @@ struct NationRow: View {
                 .textCase(.uppercase)
         }
         .padding(.vertical, 50)
+        
     }
 }
 

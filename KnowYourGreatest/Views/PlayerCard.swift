@@ -21,6 +21,7 @@ struct PlayerCard: View {
                         PlayerDetail(player: player)
                     } label: {
                         Text("View Details")
+                            .hoverEffect(.lift)
                             .foregroundColor(.white)
                             .font(.system(size: 30))
                             .padding()
@@ -33,6 +34,7 @@ struct PlayerCard: View {
                         .resizable()
                         .aspectRatio(contentMode: .fit)
                 }
+                .navigationBarTitleDisplayMode(.inline)
         }
     }
 }

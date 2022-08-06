@@ -5,12 +5,18 @@
         "imageName": "cr7",
         "fullName": "Cristiano Ronaldo dos Santos Aveiro",
         "dateOfBirth": "Feb 5, 1985 (aged 37)",
+        "birthLocation": "Funchal,\nPortugal",
         "careerAppearances": "1124",
         "careerGoals": "815",
         "careerAssists": "272",
         "careerChampionships": "34",
         "careerClubs": "Sporting CP (2002-2003); Manchester United (2003-2009, 2021-present); Real Madrid (2009-2018); Juventus (2018-2021)",
-        "notableAchievements": "\n7x UEFA Champions League Top Scorer;\n5x UEFA Champions League;\n5x Ballon D'or;\n4x European Golden Shoe;\n4x FIFA Club World Cup;\n1x UEFA European Championships;\n"
+        "notableAchievements": "\n7x UEFA Champions League Top Scorer;\n5x UEFA Champions League;\n5x Ballon D'or;\n4x European Golden Shoe;\n4x FIFA Club World Cup;\n1x UEFA European Championships",
+        "funFact": "CR7 is the only footballer in the history of this sport to score 60+ goals in 4 successive years (2011: 60 goals; 2012: 63 goals ; 2013: 69 goals; 2014: 61 goals)!",
+        "coordinates": {
+            "latitude": 32.63333,
+            "longitude": -16.9
+        }
     },
     
     {
@@ -19,12 +25,18 @@
         "imageName": "el pulga",
         "fullName": "Lionel Andres Messi",
         "dateOfBirth": "June 24, 1987 (aged 35)",
+        "birthLocation": "Rosario,\nArgentina",
         "careerAppearances": "975",
         "careerGoals": "770",
         "careerAssists": "368",
         "careerChampionships": "40",
         "careerClubs": "Barcelona FC (2004-2021); Paris Saint-Germain (2021-present)",
-        "notableAchievements": "\n10x La Liga;\n8x La Liga Top Scorer;\n7x Ballon D'or;\n6x European Golden Shoe;\n4x UEFA Chmapions League;\n1x Copa America"
+        "notableAchievements": "\n10x La Liga;\n8x La Liga Top Scorer;\n7x Ballon D'or;\n6x European Golden Shoe;\n4x UEFA Champions League;\n1x Copa America",
+        "funFact": "El Pulga is currently holds 1 of the most unbreakable individual records in football history, which is his incredible 2012 calendar year where he scored an emphatic 91 goals after a mere 69 appearances!",
+        "coordinates": {
+            "latitude": -32.94682,
+            "longitude": -60.63932
+        }
     },
     
     {
@@ -33,12 +45,18 @@
         "imageName": "el pistolero",
         "fullName": "Luis Alberto Suarez Diaz",
         "dateOfBirth": "January 24, 1987 (aged 35)",
-        "careerAppearances": "862",
+        "birthLocation": "Salto,\nUruguay",
+        "careerAppearances": "863",
         "careerGoals": "520",
         "careerAssists": "277",
         "careerChampionships": "20",
-        "careerClubs": "Club Nacional de Football (2005-2006, 2022-present); FC Groningen (2006-2007); Ajax Amsterdam (2007-2011); Liverpool FC (2011-2014); FC Barcelona (2014-2020); Athletico de Madrid (2020-2022)",
-        "notableAchievements": "\n5x La Liga;\n2x European Golden Shoe;\n1x La Liga Top Scorer;\n1x UEFA Champions League;\n1x Copa America;\n1x Premier League Top Scorer"
+        "careerClubs": "Club Nacional de Football (2005-2006, 2022-present); FC Groningen (2006-2007); Ajax (2007-2011); Liverpool FC (2011-2014); FC Barcelona (2014-2020); Athletico de Madrid (2020-2022)",
+        "notableAchievements": "\n5x La Liga;\n2x European Golden Shoe;\n1x La Liga Top Scorer;\n1x UEFA Champions League;\n1x Copa America;\n1x Premier League Top Scorer",
+        "funFact": "Suarez is 1 of only 3 players in football history to have scored at least 1 goal in every single minute of an official match (1-90)!",
+        "coordinates": {
+            "latitude": -31.38333,
+            "longitude": -57.96667
+        }
     },
 
     {
@@ -47,12 +65,18 @@
         "imageName": "lewangoalski",
         "fullName": "Robert Lewandowski",
         "dateOfBirth": "August 21, 1988 (aged 34)",
-        "careerAppearances": "N/A",
-        "careerGoals": "N/A",
-        "careerAssists": "N/A",
-        "careerChampionships": "N/A",
-        "careerClubs": "N/A",
-        "notableAchievements": "N/A"
+        "birthLocation": "Warsaw,\nPoland",
+        "careerAppearances": "878",
+        "careerGoals": "616",
+        "careerAssists": "~100",
+        "careerChampionships": "26",
+        "careerClubs": "Delta Warsaw (2004-2005); Legia Warsaw II (2005-2006); Znicz Pruszkow (2006-2008); Lech Poznan (2008-2010); Borussia Dortmund (2010-2014); Bayern Munich (2014-2022); Barcelona FC (2022-present)",
+        "notableAchievements": "\n10x Bundesliga;\n7x Bundesliga Top Scorer;\n2x European Golden Shoe;\n1x UEFA Champions League;\n1x Ballon D'or;\n1x FIFA Club World Cup",
+        "funFact": "Lewy managed to achieve an impossible feat by scoring 5 goals in just 9 minutes against Wolfsburg back in 2015!",
+        "coordinates": {
+            "latitude": 52.22977,
+            "longitude": 21.01178
+        }
     },
 
     {
@@ -61,12 +85,18 @@
         "imageName": "pele",
         "fullName": "Edson Arantes do Nascimento (Pele)",
         "dateOfBirth": "October 23, 1940 (aged 82)",
-        "careerAppearances": "N/A",
-        "careerGoals": "N/A",
-        "careerAssists": "N/A",
-        "careerChampionships": "N/A",
-        "careerClubs": "N/A",
-        "notableAchievements": "N/A"
+        "birthLocation": "Minas\nGerais, Brazil",
+        "careerAppearances": "~812",
+        "careerGoals": "~757",
+        "careerAssists": "~343",
+        "careerChampionships": "~14",
+        "careerClubs": "Santos FC (1956-1974); New York Cosmos (1974-1977)",
+        "notableAchievements": "\n6x Domestic Top Scorer;\n6x Campeonato Brasileiro Serie A;\n3x FIFA World Cup;\n2x Intercontinental Cup;\n2x Copa Libertadores;\n1x NASL Soccer Bowl",
+        "funFact": "To this day, the King of Football Pele still holds the record as the only football player in existence to have won 3 World Cup tournaments in his illustrious career, claiming the title in 1958, 1962 and 1970!",
+        "coordinates": {
+            "latitude": -21.692578,
+            "longitude": -45.251546
+        }
     },
 
     {
@@ -75,26 +105,38 @@
         "imageName": "zlatan",
         "fullName": "Zlatan Ibrahimovic",
         "dateOfBirth": "October 3, 1981 (aged 42)",
-        "careerAppearances": "N/A",
-        "careerGoals": "N/A",
-        "careerAssists": "N/A",
-        "careerChampionships": "N/A",
-        "careerClubs": "N/A",
-        "notableAchievements": "N/A"
+        "birthLocation": "Malmo,\nSweden",
+        "careerAppearances": "983",
+        "careerGoals": "572",
+        "careerAssists": "~150",
+        "careerChampionships": "33",
+        "careerClubs": "Malmo FF (1999-2001); Ajax (2001-2005); Juventus FC (2005-2006); Inter Milan (2006-2009); Barcelona (2009-2011); AC Milan (2011-2012, 2019-present); Paris Saint-Germain (2012-2016); Manchester United (2016-2018); LA Galaxy (2018-2019)",
+        "notableAchievements": "\n7x Serie A;\n4x Ligue 1;\n3x Ligue 1 Top Scorer;\n3x Serie A Footballer of the Year;\n1x UEFA Europa League;\n1x UEFA Chamions League Top Assist Provider",
+        "funFact": "Zlatan registered the furthest bicycle kick ever scored, netting one from 32.45 yards!",
+        "coordinates": {
+            "latitude": 55.60587,
+            "longitude": 13.00073
+        }
     },
 
     {
         "id": 7,
         "nationName": "the netherlands",
-        "imageName": "flying dutchman",
+        "imageName": "non-flying dutchman",
         "fullName": "Dennis Nicolaas Maria Bergkamp",
         "dateOfBirth": "May 10, 1969 (aged 53)",
-        "careerAppearances": "N/A",
-        "careerGoals": "N/A",
-        "careerAssists": "N/A",
-        "careerChampionships": "N/A",
-        "careerClubs": "N/A",
-        "notableAchievements": "N/A"
+        "birthLocation": "Amsterdam,\nNetherlands",
+        "careerAppearances": "813",
+        "careerGoals": "301",
+        "careerAssists": "~150",
+        "careerChampionships": "16",
+        "careerClubs": "Ajax Amsterdam (1986-1993); Inter Milan (1993-1995); Arsenal FC (1995-2006)",
+        "notableAchievements": "\n4x FA Cup;\n3x Premier League;\n3x Eredivisie Top Scorer;\n1x UEFA Europa League;\n1x UEFA Europa League Top Scorer;\n1x IFFHS World's Top Goal Scorer",
+        "funFact": "Dennis was part of the Invincible 2003-2004 Arsenal Team, who had partaken in the entirety of the Premier League season (38 games) that year without conceding a single loss!",
+        "coordinates": {
+            "latitude": 52.37403,
+            "longitude": 4.88969
+        }
     },
 
     {
@@ -103,12 +145,18 @@
         "imageName": "der bomber",
         "fullName": "Gerhard Muller (Gerd Muller)",
         "dateOfBirth": "November 3, 1945 (deceased at age 76)",
-        "careerAppearances": "N/A",
-        "careerGoals": "N/A",
-        "careerAssists": "N/A",
-        "careerChampionships": "N/A",
-        "careerClubs": "N/A",
-        "notableAchievements": "N/A"
+        "birthLocation": "Nordlingen,\nGermany",
+        "careerAppearances": "778",
+        "careerGoals": "722",
+        "careerAssists": "~150",
+        "careerChampionships": "16",
+        "careerClubs": "TSV 1861 Nordlingen (1962-1964); Bayern Munich (1964-1979); Fort Lauderdale Strikers (1979-1981)",
+        "notableAchievements": "\n7x Bundesliga Top Scorer;\n3X UEFA Champions League;\n2x European Golden Shoe;\n1x FIFA World Cup;\n1x UEFA European Championships;\n1x Ballon D'or",
+        "funFact": "Gerd Muller is still to this day, the all-time leading scorer in the entire Bundesliga, with a tally of 365 goals after 427 appearances for his only Bundesliga club Bayern Munich, a record that is seemingly unbreakable!",
+        "coordinates": {
+            "latitude": 48.85122,
+            "longitude": 10.48868
+        }
     },
 
     {
@@ -117,12 +165,18 @@
         "imageName": "zizou",
         "fullName": "Zinedine Yazid Zidane",
         "dateOfBirth": "June 23, 1972 (aged 50)",
-        "careerAppearances": "N/A",
-        "careerGoals": "N/A",
-        "careerAssists": "N/A",
-        "careerChampionships": "N/A",
-        "careerClubs": "N/A",
-        "notableAchievements": "N/A"
+        "birthLocation": "Marseille,\nFrance",
+        "careerAppearances": "803",
+        "careerGoals": "156",
+        "careerAssists": "~200",
+        "careerChampionships": "13",
+        "careerClubs": "Cannes (1988-1992); Bordeaux (1992-1996); Juventus (1996-2001); Real Madrid (2001-2006)",
+        "notableAchievements": "\n2x Serie A;\n1x FIFA World Cup;\n1x UEFA European Championships;\n1x Ballon D'or;\n1x IFFHS World's Best Playmaker;\n1x Serie A Top Assist Provider",
+        "funFact": "Zizou is one of the greatest maestros in the football world, and the fact that he is the only player to date to have won both the World Cup & Euro while being voted France's best player is a testament to his massive impact!",
+        "coordinates": {
+            "latitude": 43.846242,
+            "longitude": 6.5137
+        }
     },
 
     {
@@ -131,12 +185,18 @@
         "imageName": "la computadora",
         "fullName": "Xavier Hernández Creus (Xavi)",
         "dateOfBirth": "January 25, 1980 (aged 42)",
-        "careerAppearances": "N/A",
-        "careerGoals": "N/A",
-        "careerAssists": "N/A",
-        "careerChampionships": "N/A",
-        "careerClubs": "N/A",
-        "notableAchievements": "N/A"
+        "birthLocation": "Terrassa,\nSpain",
+        "careerAppearances": "1017",
+        "careerGoals": "113",
+        "careerAssists": "238",
+        "careerChampionships": "32",
+        "careerClubs": "Barcelona FC (1998-2015); Al Sadd (2015-2019)",
+        "notableAchievements": "\n4x UEFA Champions League;\n4x IFFHS World's Best Playmaker;\n3x La Liga Midfielder of the Year;\n2x UEFA European Championships;\n1x FIFA World Cup;\n1x UEFA European Championships Player of the Tournament",
+        "funFact": "Xavi is the only midfielder, or even player in history to have been awarded the IFFHS World's Best Playmaker Award for 4 consecutive years (2008, 2009, 2010, 2011), a feat even Messi could not pull off!",
+        "coordinates": {
+            "latitude": 41.56667,
+            "longitude": 2.01667
+        }
     },
     
     {
@@ -145,12 +205,17 @@
         "imageName": "luka",
         "fullName": "Luka Modric",
         "dateOfBirth": "September 9, 1985 (aged 37)",
-        "careerAppearances": "",
-        "careerGoals": "",
-        "careerAssists": "",
-        "careerChampionships": "",
-        "careerClubs": "",
-        "notableAchievements": "N/A"
+        "birthLocation": "Zadar,\nCroatia",
+        "careerAppearances": "918",
+        "careerGoals": "114",
+        "careerAssists": "~150",
+        "careerChampionships": "25",
+        "careerClubs": "Dinamo Zagreb (2003-2008); Zrinjski Mostar (2003-2004); Inter Zapresic (2004-2005); Tottenham Hotspur (2008-2012); Real Madrid (2012-present)",
+        "notableAchievements": "\n5x UEFA Champions League;\n4x FIFA Club World Cup;\n3x La Liga;\n1x Ballon D'or;\n1x IFFHS World's Best Playmaker;\n1x FIFA World Cup Golden Ball",
+        "funFact": "Luka's national side Croatia has never lost a match whenever he manages to score a goal for them, with the current record being 10 wins and 1 draw on Modric's 11 occasions",
+        "coordinates": {
+            "latitude": 44.11972,
+            "longitude": 15.24222
+        }
     }
-
 ]
