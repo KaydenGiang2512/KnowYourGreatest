@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="100" src="https://github.com/KaydenGiang2512/KnowYourGreatest/tree/main/KnowYourGreatest/Assets.xcassets/AppIcon.appiconset/64.png">
+  <img width="100" src="Assets.xcassets/AppIcon.appiconset/64.png">
 </p>
 
 <p align="center">"A Haven for all fanatics of the Sport of Kings"</p>
