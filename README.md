@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td align="center">
-        <img src="https://github.com/KaydenGiang2512/KnowYourGreatest/blob/main/ViewScreenshots/AppDemo.gif?raw=true" width="300">
+        <img src="https://github.com/KaydenGiang2512/KnowYourGreatest/blob/main/ViewScreenshots/AppDemo.gif?raw=true" width="375">
     </td>
    </tr>
  </table>
