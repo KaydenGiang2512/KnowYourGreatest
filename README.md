@@ -14,14 +14,14 @@
 - The data displayed is processed from a standard JSON file, and the accuracy of the provided statistics are all true as of mid-2022 (susceptible to future changes)!
 
 <p align="center">
-  <img src="ViewScreenshots/WelcomeView.png" width="200" > 
-  <img src="ViewScreenshots/MainMenuView.png" width="200" > 
-  <img src="ViewScreenshots/PlayerCardView.png" width="200" > 
-  <img src="ViewScreenshots/DetailView.png" width="200" >
-  <img src="ViewScreenshots/LocationMapView.png" width="200" >
+  <img src="ViewScreenshots/WelcomeView.png" width="250" > 
+  <img src="ViewScreenshots/MainMenuView.png" width="250" > 
+  <img src="ViewScreenshots/PlayerCardView.png" width="250" > 
+  <img src="ViewScreenshots/DetailView.png" width="250" >
+  <img src="ViewScreenshots/LocationMapView.png" width="250" >
 </p>
 
-## 🔮 Live Demo (Animation GIF)
+## 🔮 Live Demo (GIF Animation)
 
 <table align="center">
   <tr>
@@ -42,5 +42,5 @@
 
 ## 🏆 Author
 - Giang Nhat Khanh (Kayden) - nhatkhanhgiang2512@gmail.com
-- [Check my LinkedIn Profile](https://www.linkedin.com/in/nhatkhanhgiang2512/)
-- [My GitHub Profile](https://github.com/KaydenGiang2512)
+- LinkedIn - [Check out my LinkedIn Profile](https://www.linkedin.com/in/nhatkhanhgiang2512/)
+- GitHub - [Check out my GitHub Profile](https://github.com/KaydenGiang2512)
