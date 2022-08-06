@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="100" src="Assets.xcassets/AppIcon.appiconset/64.png">
+  <img width="100" src="KnowYourGreatest/Assets.xcassets/AppIcon.appiconset/64.png">
 </p>
 
 <p align="center">"A Haven for all fanatics of the Sport of Kings"</p>
@@ -23,12 +23,12 @@
 
 ## 🔮 Live Demo (Animation GIF)
 
-<table>
+<table align="center">
   <tr>
      <td>Know Your Greatest App with Welcome Screen and Map View</td>
   </tr>
   <tr>
-    <td align="center">
+    <td>
         <img src="https://github.com/KaydenGiang2512/KnowYourGreatest/blob/main/ViewScreenshots/AppDemo.gif?raw=true" width="300">
     </td>
    </tr>
