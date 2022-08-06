@@ -5,7 +5,7 @@
   <img width="100" src="KnowYourGreatest/Assets.xcassets/AppIcon.appiconset/64.png">
 </p>
 
-<p align="center">"A Haven for all fanatics of the Sport of Kings"</p>
+<p align="center">"A Haven for all cultured fanatics of the Sport of Kings"</p>
 
 ## 📖 Description
 
@@ -28,7 +28,7 @@
      <td>Know Your Greatest App with Welcome Screen and Map View</td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
         <img src="https://github.com/KaydenGiang2512/KnowYourGreatest/blob/main/ViewScreenshots/AppDemo.gif?raw=true" width="300">
     </td>
    </tr>
