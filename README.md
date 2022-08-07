@@ -10,7 +10,7 @@
 ## 📖 Description
 
 - This is an iOS application, inspired from my immense passion for the wonderful game of football (soccer for you Americans) :))
-- The main content is essentially a list of the greatest footballers ever to grace the sport we all know and love by their country of origin
+- The main content is essentially a list of the greatest male footballers ever to grace the sport we all know and love by their country of origin
 - The data displayed is processed from a standard JSON file, and the accuracy of the provided statistics are all true as of mid-2022 (susceptible to future changes)!
 
 <p align="center">
